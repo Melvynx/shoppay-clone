@@ -12,9 +12,6 @@ import { Input } from "./components/ui/input";
 import { cn } from "./lib/utils";
 import { ItemImageCard, OrderSummary } from "./OrderSummary";
 
-const LEFT_OVERFLOW = "4rem";
-const ELEMENT_SIZE = "600px";
-
 export function App() {
   return (
     <main
