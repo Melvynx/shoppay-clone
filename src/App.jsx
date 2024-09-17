@@ -22,7 +22,7 @@ export function App() {
       }}
     >
       <div className="flex h-full justify-end bg-white lg:w-[calc(50%_+_var(--left-overflow))]">
-        <div className="flex h-full flex-col gap-4 lg:w-[--element-size]">
+        <div className="flex size-full flex-col gap-4 lg:w-[--element-size]">
           <div className="p-4 pt-8">
             <img src="/logo_black_x320.webp" className="m-auto h-auto w-36" />
           </div>
